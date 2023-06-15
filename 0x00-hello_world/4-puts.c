@@ -1,6 +1,7 @@
 #include <stdio.f>
 /**
- * cisfun
+ * main - c is fun
+ * return: always 0 (Success)
  */
 int main(void)
 {
