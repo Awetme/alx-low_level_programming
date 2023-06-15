@@ -1,7 +1,8 @@
-#include <studio.h>
+#include<studio.h>
 /**
- * main - exit point
- * return: always 0 (success)
+ * main - Entry point
+ *
+ * return: Always 0 (Success)
  */
 int main(void)
 {
